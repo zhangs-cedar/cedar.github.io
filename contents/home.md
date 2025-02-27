@@ -2,7 +2,7 @@
 
 [![zhangs-cedar](https://img.shields.io/badge/cedar-github-blue?logo=github)](https://github.com/zhangs-cedar)
 
-他目前在中国矿业大学计算机科学与技术学院攻读计算机科学硕士学位。
+目前在中国矿业大学计算机科学与技术学院攻读计算机科学硕士学位。
 
 #### Email
 s.zhang.cedar@gmail.com
