@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![zhangs-cedar](https://img.shields.io/badge/cedar-github-blue?logo=github)](https://github.com/zhangs-cedar)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+他目前在中国矿业大学计算机科学与技术学院攻读计算机科学硕士学位。
 
 #### Email
-sli[at]cumt.edu.cn
+s.zhang.cedar@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+硕士研究生，计算机科学与技术，中国矿业大学，2022—2025（预期毕业）。  
+本科，数据科学与大数据技术，中国矿业大学，2018—2022。
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+深度学习、人工智能地震学、矿山微震。
 
